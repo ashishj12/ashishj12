@@ -7,6 +7,8 @@ I'm a second-year student pursuing a Bachelor of Technology (B.Tech) in Computer
 Skills: 
 C / C++ / Python / HTML / CSS 
 - ⚡ Fun fact: I'm also a good gamer. 
+## Stats
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishj12&show_icons=true&theme=radical)
 
 
 
