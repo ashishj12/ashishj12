@@ -1,34 +1,143 @@
-![Backend Developer](https://github.com/ashishj12/ashishj12/blob/main/banner.jpeg)
-<h1>Hi 👋, I'm Ashish Kumar</h1>
-<p>A passionate backend developer  </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-60429724b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishj12&show_icons=true&locale=en" alt="ashishj12" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishj12&" alt="ashishj12" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishj12&show_icons=true&locale=en&layout=compact" alt="ashishj12" /></p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Ashish%20Jangid&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%9C%A6%20API%20Architect%20%E2%9C%A6%20Systems%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=bae6fd" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Backend+Software+Developer+%F0%9F%9A%80;Go+%7C+TypeScript+%7C+JavaScript+Engineer+%F0%9F%92%BB;Designing+Scalable+APIs+%26+Microservices+%E2%9A%A1;PostgreSQL+%26+Express.js+Enthusiast+%F0%9F%90%98;Clean+Code+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Building+Real-World+Backend+Systems+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashishj12&color=0ea5e9&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ashishj12?style=for-the-badge&color=38bdf8&labelColor=0f172a&label=Followers)](https://github.com/ashishj12)
+
+</div>
+
+---
+
+<div align="center">
+
+## 👋 Hi, I'm Ashish Jangid!
+
+</div>
+
+> 🔵 *"Don't just write code — engineer solutions that scale."*
+
+💻 **Backend Software Developer** &nbsp;|&nbsp; ⚡ **Go & Node.js Enthusiast** &nbsp;|&nbsp; 🏗️ **API & Systems Architect**
+
+---
+
+<div align="center">
+
+## 🧠 Currently Learning & Exploring
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Go%20Microservices-Building-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/System%20Design-Practicing-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-Deepening-38bdf8?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-Crafting-38bdf8?style=for-the-badge&labelColor=0f172a" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-Optimizing-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker%20%26%20DevOps-Exploring-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Auth%20%26%20Security-Learning-0284c7?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Applying-0284c7?style=for-the-badge&labelColor=0f172a" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=ashishj12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ashishj12&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishj12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishj12&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=bae6fd&area=true&area_color=0ea5e9&hide_border=true&radius=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishj12/ashishj12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishj12/ashishj12/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ashishj12/ashishj12/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishj12)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ashishj12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230ea5e9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ashishj12.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishj12@gmail.com)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=ashishj12&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c4a6e,100:0ea5e9&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=bae6fd&animation=twinkling&fontAlignY=65" />
+
+</div>
