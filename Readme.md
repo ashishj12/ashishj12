@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Backend+Software+Developer+%F0%9F%9A%80;Go+%7C+TypeScript+%7C+JavaScript+Engineer+%F0%9F%92%BB;Designing+Scalable+APIs+%26+Microservices+%E2%9A%A1;PostgreSQL+%26+Express.js+Enthusiast+%F0%9F%90%98;Clean+Code+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Building+Real-World+Backend+Systems+%F0%9F%94%A5" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashishj12&color=0ea5e9&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/ashishj12?style=for-the-badge&color=38bdf8&labelColor=0f172a&label=Followers)](https://github.com/ashishj12)
@@ -21,7 +21,8 @@
 
 </div>
 
-> 🔵 *"Don't just write code - engineer solutions that scale."*
+
+> *"Don't just write code - engineer solutions that scale."*
 
 💻 **Backend Software Developer** &nbsp;|&nbsp; ⚡ **Go & Node.js Enthusiast** &nbsp;|&nbsp; 🏗️ **API & Systems Architect**
 
@@ -34,15 +35,16 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Go%20Microservices-Learning-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/System%20Design-Practicing-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-Deepening-38bdf8?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Go%20Microservices-Learning-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;
+  <img src="https://img.shields.io/badge/System%20Design-Practicing-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-Deepening-38bdf8?style=for-the-badge&labelColor=0f172a" />&nbsp;
   <img src="https://img.shields.io/badge/REST%20APIs-Crafting-38bdf8?style=for-the-badge&labelColor=0f172a" />
 </p>
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-Optimizing-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker%20%26%20DevOps-Exploring-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Auth%20%26%20Security-Designing-0284c7?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-Optimizing-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker%20%26%20DevOps-Exploring-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;
+  <img src="https://img.shields.io/badge/Auth%20%26%20Security-Designing-0284c7?style=for-the-badge&labelColor=0f172a" />&nbsp;
   <img src="https://img.shields.io/badge/Clean%20Architecture-Applying-0284c7?style=for-the-badge&labelColor=0f172a" />
 </p>
 
@@ -61,11 +63,13 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
@@ -85,9 +89,17 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=ashishj12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ashishj12&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishj12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishj12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ashishj12&theme=tokyonight&hide_border=false" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishj12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 </div>
 
@@ -127,10 +139,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ashish-kumar86j)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AshishJ20674917)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230ea5e9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-mu-ashen-74.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangidashish38@gmail.com)
+<p>
+  <a href="http://linkedin.com/in/ashish-kumar86j"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/AshishJ20674917"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://portfolio-mu-ashen-74.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230ea5e9.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:jangidashish38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br/>
 
