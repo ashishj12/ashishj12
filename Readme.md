@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Ashish%20Jangid&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%9C%A6%20API%20Architect%20%E2%9C%A6%20Systems%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=bae6fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Ashish%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%9C%A6%20API%20Architect%20%E2%9C%A6%20Systems%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=bae6fd" />
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Ashish Jangid!
+## 👋 Hi, I'm Ashish Kumar!
 
 </div>
 
-> 🔵 *"Don't just write code — engineer solutions that scale."*
+> 🔵 *"Don't just write code - engineer solutions that scale."*
 
 💻 **Backend Software Developer** &nbsp;|&nbsp; ⚡ **Go & Node.js Enthusiast** &nbsp;|&nbsp; 🏗️ **API & Systems Architect**
 
@@ -34,7 +34,7 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Go%20Microservices-Building-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Go%20Microservices-Learning-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/System%20Design-Practicing-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-Deepening-38bdf8?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/REST%20APIs-Crafting-38bdf8?style=for-the-badge&labelColor=0f172a" />
@@ -42,7 +42,7 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-Optimizing-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker%20%26%20DevOps-Exploring-7dd3fc?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Auth%20%26%20Security-Learning-0284c7?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Auth%20%26%20Security-Designing-0284c7?style=for-the-badge&labelColor=0f172a" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Clean%20Architecture-Applying-0284c7?style=for-the-badge&labelColor=0f172a" />
 </p>
 
@@ -127,10 +127,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishj12)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ashishj12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230ea5e9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ashishj12.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishj12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ashish-kumar86j)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AshishJ20674917)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230ea5e9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-mu-ashen-74.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangidashish38@gmail.com)
 
 <br/>
 
