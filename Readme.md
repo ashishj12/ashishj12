@@ -35,7 +35,7 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Go%20Microservices-Learning-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;
+  <img src="https://img.shields.io/badge/Java%20Microservices-Learning-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;
   <img src="https://img.shields.io/badge/System%20Design-Practicing-0ea5e9?style=for-the-badge&labelColor=0f172a" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-Deepening-38bdf8?style=for-the-badge&labelColor=0f172a" />&nbsp;
   <img src="https://img.shields.io/badge/REST%20APIs-Crafting-38bdf8?style=for-the-badge&labelColor=0f172a" />
