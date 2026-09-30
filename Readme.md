@@ -148,6 +148,10 @@
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashishj12)
+
 [![](https://visitcount.itsvg.in/api?id=ashishj12&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <br/>
